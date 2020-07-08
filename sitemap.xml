@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://godweiyang.com/2020/07/06/text/</loc>
+    
+    <lastmod>2020-07-08T06:43:48.727Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://godweiyang.com/friends/index.html</loc>
     
     <lastmod>2020-07-06T11:43:59.870Z</lastmod>
@@ -23,13 +30,6 @@
   </url>
   
   <url>
-    <loc>https://godweiyang.com/2020/07/06/text/</loc>
-    
-    <lastmod>2020-07-06T10:02:48.253Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://godweiyang.com/2020/02/16/sort-algorithms/</loc>
     
     <lastmod>2020-04-05T02:43:43.000Z</lastmod>
@@ -44,14 +44,14 @@
   </url>
   
   <url>
-    <loc>https://godweiyang.com/categories/index.html</loc>
+    <loc>https://godweiyang.com/archives/index.html</loc>
     
     <lastmod>2020-04-05T02:43:43.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://godweiyang.com/archives/index.html</loc>
+    <loc>https://godweiyang.com/categories/index.html</loc>
     
     <lastmod>2020-04-05T02:43:43.000Z</lastmod>
     
